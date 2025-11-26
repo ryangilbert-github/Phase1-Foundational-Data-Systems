@@ -1,0 +1,11 @@
+Core data science and simulation packages
+
+pandas
+numpy
+matplotlib
+
+Optional: If you use a web framework to display results
+
+flask
+
+streamlit
