@@ -1,0 +1,6 @@
+# Core packages for data wrangling and visualization
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
