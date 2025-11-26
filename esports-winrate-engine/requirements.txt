@@ -1,0 +1,13 @@
+Core data science and machine learning packages
+
+pandas
+numpy
+scikit-learn
+matplotlib
+requests # Required for accessing the external game API
+
+Optional: If you use a deep learning model later
+
+tensorflow
+
+pytorch
